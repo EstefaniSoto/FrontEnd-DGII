@@ -39,3 +39,20 @@ Para iniciar el servidor de desarrollo, ejecute el siguiente comando:
 npm run dev
 ```
 El proyecto se abrirá en el navegador en [http://localhost:5173](http://localhost:5173) por defecto. **IMPORTANTE:** El proyecto debe ejecutarse en esta URL específicamente, ya que los permisos de CORS para la API están configurados para permitir solicitudes solo desde [http://localhost:5173](http://localhost:5173).
+
+## Pruebas
+
+Para ejecutar las pruebas, utilice el siguiente comando:
+```bash
+npm test
+```
+Las pruebas están configuradas para ejecutarse en un entorno de jest con jsdom.
+
+## Tecnologías Utilizadas
+
+- **React:** Biblioteca de JavaScript para construir interfaces de usuario.
+- **Vite:** Herramienta de construcción rápida.
+- **Tailwind CSS:** Framework CSS para diseño rápido y responsivo.
+- **Axios:** Biblioteca para realizar solicitudes HTTP.
+- **SweetAlert2:** Librería para mostrar alertas estilizadas.
+- **Jest:** Framework de pruebas para JavaScript.
