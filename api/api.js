@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 // Usa la variable de entorno para definir la URL base
-const API_URL = process.env.REACT_APP_API_BASE_URL || 'http://localhost:5054/api';
+const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5054/api';
 
 // Función para obtener la lista de contribuyentes
 // Hace una solicitud GET a la ruta '/contribuyentes' en la API
