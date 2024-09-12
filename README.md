@@ -2,6 +2,18 @@
 
 Este es el proyecto frontend para la prueba técmica de la DGII. Está desarrollado en React utilizando Vite como herramienta de construcción, junto con varias otras dependencias para la gestión del estado, la manipulación de formularios y las solicitudes HTTP.
 
+## Video demostrativo de la página web
+
+Mire el video de demostración de la aplicación aquí: [Demostración de la Aplicación](https://youtu.be/587ASD0pMWE)
+
+## Diseño
+![image](https://github.com/user-attachments/assets/a650a0b4-70f3-4f00-bea8-f68258ed7403)
+
+![image](https://github.com/user-attachments/assets/3c10dfee-e38c-44f9-a552-61bbf29bc5c3)
+
+
+
+
 ## Requisitos Previos
 
 Antes de comenzar, asegúrese de tener instalados los siguientes programas en su máquina:
