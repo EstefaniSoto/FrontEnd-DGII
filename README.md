@@ -1,6 +1,6 @@
 # DGII Frontend
 
-Este es el proyecto frontend para la prueba técmica de la DGII. Está desarrollado en React utilizando Vite como herramienta de construcción, junto con varias otras dependencias para la gestión del estado, la manipulación de formularios y las solicitudes HTTP.
+Este es el proyecto frontend para la prueba técnica de la DGII. Está desarrollado en React utilizando Vite como herramienta de construcción, junto con varias otras dependencias para la gestión del estado, la manipulación de formularios y las solicitudes HTTP.
 
 ## Video demostrativo de la página web
 
@@ -26,7 +26,7 @@ Antes de comenzar, asegúrese de tener instalados los siguientes programas en su
 
 1. **Clonar el Repositorio**
 
-   Clone este repositorio en su máquina local usando el siguiente comando:
+   Clone este repositorio en Visual Studio Code dentro de su máquina local usando el siguiente comando:
 
    ```bash
    git clone https://github.com/EstefaniSoto/FrontEnd-DGII.git
